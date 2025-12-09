@@ -1,0 +1,29 @@
+# TicketFlow - Multi-Framework Ticket Management System
+
+Three complete implementations of a ticket management system in React, Vue.js, and PHP/Twig.
+
+## Ì≥Å Project Structure
+
+- [`/react-ticket-app/`](./react-ticket-app/) - React 18 + Vite implementation
+- [`/vue-ticket-app/`](./vue-ticket-app/) - Vue.js 3 + Vite implementation  
+- [`/php-ticket-app/`](./php-ticket-app/) - PHP + Twig templating implementation
+- [`/shared-assets/`](./shared-assets/) - Shared design assets and styles
+
+## ÌæØ Features
+
+All implementations include:
+- ‚úÖ User authentication (Login/Signup)
+- ‚úÖ Dashboard with statistics
+- ‚úÖ Full ticket CRUD operations
+- ‚úÖ Responsive design (1440px max-width)
+- ‚úÖ Wave hero section with decorative circles
+- ‚úÖ Accessibility compliance
+- ‚úÖ Consistent color scheme and layout
+
+## Ì∫Ä Quick Start
+
+Each implementation has its own README with setup instructions.
+
+## Ì≥Ñ License
+
+MIT License
